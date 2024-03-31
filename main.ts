@@ -1,2 +1,3 @@
 let a = "farhan";
-console.log(a);
+let b = "magsi";
+console.log(a+" "+b);
